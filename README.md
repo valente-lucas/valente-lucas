@@ -46,7 +46,7 @@ Analytical thinking · Problem solving · Teamwork · Clear communication · Ada
 - 💼 **LinkedIn:** [linkedin.com/in/valentelucas](https://www.linkedin.com/in/valentelucas)  
 
 ---
-## 📂 Portfolio
+## 📂 Portfolio - Under construction 🏗️:
 Check out some of my pinned projects below:
 - 🕒 **Time Series Forecasting**  
 - 🤖 **Machine Learning Classification**  
