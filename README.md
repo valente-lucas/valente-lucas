@@ -3,9 +3,8 @@
 🎓 I’m currently finishing my **Ph.D. in Physics**, working in the field of **Quantum Information**.  
 📊 I also hold an **MBA in Data Science and Analytics** from **USP-Esalq**.  
 💡 I’m now focusing on developing myself further as a **Data Scientist**, combining my analytical background in physics with modern data-driven methodologies.  
-I’m an enthusiast of **Statistics**, **Machine Learning**, and **MLOps**, mainly focused on **data analysis**.  
-You can check out some of my work in the pinned repositories below!  
-
+😄:I’m an enthusiast of **Statistics**, **Machine Learning**, and **MLOps**, mainly focused on **data analysis**.  
+👷:You can check out some of my work in the pinned repositories below!  
 📈 I’m currently studying **Machine Learning algorithms for time series forecasting** and exploring real-world applications of predictive models.  
 
 ---
@@ -23,7 +22,7 @@ You can check out some of my work in the pinned repositories below!
 Analytical thinking · Problem solving · Teamwork · Clear communication · Adaptability
 
 ---
-### 🔭 I’m currently working on
+### 👨‍🔬: I’m currently working on
 - Research in **quantum information theory and correlations**  
 - **Data science projects** focused on prediction and pattern discovery  
 - Developing **end-to-end ML workflows** with reproducibility and scalability  
