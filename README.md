@@ -7,7 +7,7 @@
 👷 You can check out some of my work in the pinned repositories below!  
 📈 I'm currently exploring advanced machine learning methods for time series forecasting.
 
---- 
+-
 
 ## ⭐ Featured Projects
 
@@ -20,12 +20,13 @@ Forecasting electricity consumption in Brazil using statistical and machine lear
 ### 🧬 Protein Secondary Structure Prediction
 Deep learning project for predicting protein secondary structure directly from crystallographic data. Includes dataset preparation from PDB/CIF files and neural network development.
 
-🔗 Repository: [Protein Secondary Structure](https://github.com/valente-lucas/Protein_secondary_structure)
+🔗 Repository: [Protein Secondary Structure](https://github.com/valente-lucas/Neural_Network_for_protein)
 
 
 ### 🎥 AI Video Summarizer
 An LLM-powered application that summarizes YouTube videos using embeddings, retrieval, and large language models.
-🔗 Repository: [Video Summarizer](https://github.com/SEU_USUARIO/Video_summarizer)
+
+🔗 Repository: [Video Summarizer](https://github.com/valente-lucas/Video_summarizer)
 
 
 ### 💱 Currency Exchange Data Pipeline
