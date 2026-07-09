@@ -1,3 +1,4 @@
+🌎 **Language:** 🇺🇸 English | [🇧🇷 Português](README_pt.md)
 # 👋 Hi, I'm Lucas Valente
 
 🎓 I’m currently finishing my **Ph.D. in Physics**, specializing in **Quantum Information**.  
@@ -7,9 +8,8 @@
 👷 You can check out some of my work in the pinned repositories below!  
 📈 I'm currently exploring advanced machine learning methods for time series forecasting.
 
--
 
-# ⭐ Featured Projects
+## ⭐ Featured Projects
 
 #### 📈 Time Series Forecasting
 Forecasting electricity consumption in Brazil using statistical and machine learning models. This project includes feature engineering, model comparison, validation, and forecasting pipelines.
