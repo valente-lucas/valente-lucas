@@ -16,27 +16,24 @@ Forecasting electricity consumption in Brazil using statistical and machine lear
 
 🔗 Repository: [Time Series Forecasting](https://github.com/valente-lucas/Time_Series_Forecasting)
 
----
 
 ### 🧬 Protein Secondary Structure Prediction
 Deep learning project for predicting protein secondary structure directly from crystallographic data. Includes dataset preparation from PDB/CIF files and neural network development.
 
 🔗 Repository: [Protein Secondary Structure](https://github.com/valente-lucas/Protein_secondary_structure)
 
----
 
 ### 🎥 AI Video Summarizer
 An LLM-powered application that summarizes YouTube videos using embeddings, retrieval, and large language models.
 🔗 Repository: [Video Summarizer](https://github.com/SEU_USUARIO/Video_summarizer)
 
----
 
 ### 💱 Currency Exchange Data Pipeline
 End-to-end data engineering pipeline that collects real-time currency exchange rates from the FreeCurrencyAPI, containerizes the application with Docker, and stores the processed data in a MinIO data lake. The project demonstrates API integration, automated data ingestion, containerization, and cloud-native storage practices.
 
 🔗 Repository: [Currency Exchange Data Pipeline](https://github.com/valente-lucas/API_exchange_rates)
 
---- 
+---
 
 ### 🧠 Hard Skills
 - **Programming:** Python (Pandas, Scipy, Scikit-learn, Pytorch, LangChain), R (dplyr, tidyr, fable, mlr3), SQL, Git.
