@@ -9,27 +9,27 @@
 
 -
 
-### ⭐ Featured Projects
+# ⭐ Featured Projects
 
-## 📈 Time Series Forecasting
+#### 📈 Time Series Forecasting
 Forecasting electricity consumption in Brazil using statistical and machine learning models. This project includes feature engineering, model comparison, validation, and forecasting pipelines.
 
 🔗 Repository: [Time Series Forecasting](https://github.com/valente-lucas/Time_Series_Forecasting)
 
 
-## 🧬 Protein Secondary Structure Prediction
+#### 🧬 Protein Secondary Structure Prediction
 Deep learning project for predicting protein secondary structure directly from crystallographic data. Includes dataset preparation from PDB/CIF files and neural network development.
 
 🔗 Repository: [Protein Secondary Structure](https://github.com/valente-lucas/Neural_Network_for_protein)
 
 
-## 🎥 AI Video Summarizer
+#### 🎥 AI Video Summarizer
 An LLM-powered application that summarizes YouTube videos using embeddings, retrieval, and large language models.
 
 🔗 Repository: [Video Summarizer](https://github.com/valente-lucas/Video_summarizer)
 
 
-## 💱 Currency Exchange Data Pipeline
+#### 💱 Currency Exchange Data Pipeline
 Built an automated data pipeline that retrieves exchange rate data from the FreeCurrencyAPI, processes the data, packages the application with Docker, and stores it in a MinIO data lake. The project focuses on reproducible data ingestion workflows and modern data engineering practices.
 
 
