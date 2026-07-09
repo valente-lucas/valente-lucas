@@ -1,21 +1,49 @@
-# 👋 Hi there, I'm Lucas Valente de Carvalho
+# 👋 Hi, I'm Lucas Valente
 
-🎓 I’m currently finishing my **Ph.D. in Physics**, working in the field of **Quantum Information**.  
+🎓 I’m currently finishing my **Ph.D. in Physics**, specializing in **Quantum Information**.  
 📊 I also hold an **MBA in Data Science and Analytics** from **USP-Esalq**.  
-💡 I’m now focusing on developing myself further as a **Data Scientist**, combining my analytical background in physics with modern data-driven methodologies.  
-😄:I’m an enthusiast of **Statistics**, **Machine Learning**, and **MLOps**, mainly focused on **data analysis**.  
-👷:You can check out some of my work in the pinned repositories below!  
-📈 I’m currently studying **Machine Learning algorithms for time series forecasting** and exploring real-world applications of predictive models.  
+💡 I'm currently building my career as a **Data Scientist**, combining my research experience in physics with statistics, machine learning, and data analysis.  
+😄 I enjoy developing data-driven solutions, building predictive models, and exploring real-world datasets.
+👷 You can check out some of my work in the pinned repositories below!  
+📈 I'm currently exploring advanced machine learning methods for time series forecasting.
+
+--- 
+
+## ⭐ Featured Projects
+
+### 📈 Time Series Forecasting
+Forecasting electricity consumption in Brazil using statistical and machine learning models. This project includes feature engineering, model comparison, validation, and forecasting pipelines.
+
+🔗 Repository: [Time Series Forecasting](https://github.com/valente-lucas/Time_Series_Forecasting)
 
 ---
+
+### 🧬 Protein Secondary Structure Prediction
+Deep learning project for predicting protein secondary structure directly from crystallographic data. Includes dataset preparation from PDB/CIF files and neural network development.
+
+🔗 Repository: [Protein Secondary Structure](https://github.com/valente-lucas/Protein_secondary_structure)
+
+---
+
+### 🎥 AI Video Summarizer
+An LLM-powered application that summarizes YouTube videos using embeddings, retrieval, and large language models.
+🔗 Repository: [Video Summarizer](https://github.com/SEU_USUARIO/Video_summarizer)
+
+---
+
+### 💱 Currency Exchange Data Pipeline
+End-to-end data engineering pipeline that collects real-time currency exchange rates from the FreeCurrencyAPI, containerizes the application with Docker, and stores the processed data in a MinIO data lake. The project demonstrates API integration, automated data ingestion, containerization, and cloud-native storage practices.
+
+🔗 Repository: [Currency Exchange Data Pipeline](https://github.com/valente-lucas/API_exchange_rates)
+
+--- 
+
 ### 🧠 Hard Skills
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, etc.), R (dplyr, tidyr, ggplot2, caret, etc. ), SQL.
+- **Programming:** Python (Pandas, Scipy, Scikit-learn, Pytorch, LangChain), R (dplyr, tidyr, fable, mlr3), SQL, Git.
 - **Machine Learning:** Classification, Regression, Clustering, Time Series Forecasting, Neural Networks, Deep Learning.  
-- **Statistics:** Descriptive and Inferential Statistics, Hypothesis Testing  
-- **Computer Vision:** OpenCV  
+- **Statistics:** Statistical Modeling, Descriptive and Inferential Statistics, Hypothesis Testing  
 - **Data Visualization:** Power BI  
 - **Version Control:** Git & GitHub  
-- **Big Data & Cloud:** Databricks, AWS, PySpark  
 
 ---
 ### 💬 Soft Skills
@@ -23,21 +51,21 @@ Analytical thinking · Problem solving · Teamwork · Clear communication · Ada
 
 ---
 ### 👨‍🔬: I’m currently working on
-- Research in **quantum information theory and correlations**  
+- Research in **Quantum information and quantum optics**  
 - **Data science projects** focused on prediction and pattern discovery  
-- Developing **end-to-end ML workflows** with reproducibility and scalability  
+- Developing **end-to-end ML workflows** 
 
 ---
 ### 🌱 I’m currently learning
 - Advanced **time series forecasting** models  
 - **Deep learning architectures** for sequential and structured data  
-- **MLOps and cloud pipelines** for production-ready ML systems  
+- **Production-ready ML pipelines**
 
 
 ---
 ### 👯 I’m looking to collaborate on
 - Projects applying **statistics** and **machine learning** to solve real-world problems  
-- Open-source initiatives in **data analysis**, **AI**, or **scientific computing**
+- Open-source initiatives in **data science**, **AI**, or **scientific computing**
 
   
 ---
@@ -46,7 +74,7 @@ Analytical thinking · Problem solving · Teamwork · Clear communication · Ada
 - 💼 **LinkedIn:** [linkedin.com/in/valentelucas](https://www.linkedin.com/in/valentelucas)  
 
 ---
-## 📂 Portfolio - Under construction 🏗️:
+## 📂 Portfolio in Progress 🏗️:
 Check out some of my pinned projects below:
 - 🕒 **Time Series Forecasting**  
 - 🤖 **Machine Learning Classification**  
