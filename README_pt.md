@@ -1,10 +1,15 @@
 #👋 Olá, eu sou o Lucas Valente
 
 🎓 Atualmente, estou na reta final do meu Doutorado em Física, com especialização em Informação Quântica.
+
 📊 Para conectar a bagagem acadêmica com o mercado, também fiz um MBA em Data Science e Analytics pela USP-Esalq.
+
 💡 Estou construindo minha carreira como Cientista de Dados, unindo o rigor da pesquisa científica com estatística, Machine Learning e análise de dados.
+
 😄 Sou fascinado por criar soluções baseadas em dados, construir modelos preditivos e destrinchar datasets do mundo real.
+
 👷 Você pode dar uma olhada no que ando aprontando nos repositórios fixados aqui embaixo!
+
 📈 No momento, estou mergulhado no estudo de métodos avançados de Machine Learning para previsão de séries temporais.
 
 
